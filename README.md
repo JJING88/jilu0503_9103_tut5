@@ -8,9 +8,15 @@ I was inspired by Zach Lieberman's Reflection Studies project, in particular his
 
 **1-2 The examples I found**
 
+![An image of code1](readmeImages/work1.png)
+
 [The link of Zach's work 1](https://www.instagram.com/reel/C_6cFIzJtPh/)
 
+![An image of code1](readmeImages/work2.png)
+
 [The link of Zach's work 2](https://www.instagram.com/reel/C_749dkp6_I/)
+
+
 
 
 ## Part2. Exploring Coding Techniques
@@ -24,6 +30,7 @@ p5.mapper is a library for projection mapping in p5.js. It makes it easy to proj
 ![An image of code1](readmeImages/code1.png)
 
 [The link of code example 1](https://github.com/jdeboi/p5.mapper)
+
 
 **2-2. p5.anaglyph**
 
