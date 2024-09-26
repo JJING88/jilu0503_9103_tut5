@@ -21,7 +21,7 @@ To achieve dynamic visual effects similar to Reflection Studies, I'm going to us
 
 p5.mapper is a library for projection mapping in p5.js. It makes it easy to project images on irregular surfaces, creating dynamic visual effects by mapping the image to a specified surface using geometric transformations.
 
-![An image of code1](readme Images/code1.png)
+![An image of code1](readmeImages/code1.png)
 
 [The link of code example 1](https://github.com/jdeboi/p5.mapper)
 
@@ -29,6 +29,6 @@ p5.mapper is a library for projection mapping in p5.js. It makes it easy to proj
 
 p5.anaglyph is a library for creating red and cyan stereoscopic images that can be viewed in 3D through red and cyan glasses. This technique creates stereoscopic sensations in a two-dimensional picture, simulating reflections and depth effects.
 
-![An image of code2](readme Images/code2.png)
+![An image of code2](readmeImages/code2.png)
 
 [The link of code example 2](https://github.com/jdeboi/p5.anaglyph)
