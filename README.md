@@ -9,11 +9,9 @@ I was inspired by Zach Lieberman's Reflection Studies project, in particular his
 **1-2 The examples I found**
 
 ![An image of code1](readmeImages/work1.png)
-
 [The link of Zach's work 1](https://www.instagram.com/reel/C_6cFIzJtPh/)
 
 ![An image of code1](readmeImages/work2.png)
-
 [The link of Zach's work 2](https://www.instagram.com/reel/C_749dkp6_I/)
 
 
