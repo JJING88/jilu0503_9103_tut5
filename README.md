@@ -5,7 +5,11 @@
 **Zach Lieberman's Reflection Studies**
 
 I was inspired by Zach Lieberman's Reflection Studies project, in particular his use of light and shadow reflections to create abstract visual effects. This technique creates a dynamic visual representation through the interaction between light and objects. I hope to apply this dynamic effect of light reflection to my project to express the interaction between virtual space and reality. This technique will help me explore how animation and visual reflections can create a compelling visual experience and enhance the immersion of my project.
-[The link of Zach](https://www.instagram.com/reel/C_6cFIzJtPh/)
+
+[The link of Zach's work 1](https://www.instagram.com/reel/C_6cFIzJtPh/)
+
+[The link of Zach's work 2](https://www.instagram.com/reel/C_749dkp6_I/)
+
 
 ## 2. Exploring Coding Techniques
 
