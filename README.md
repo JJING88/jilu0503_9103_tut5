@@ -1,20 +1,11 @@
 # jilu0503_9103_tut5
 
-# Creative Code Art and Implementation
-
 ## 1. Imaging Technique Inspiration
 
 **Zach Lieberman's Reflection Studies**
 
-Zach Lieberman's *Reflection Studies* explores the dynamic interplay between light and reflective surfaces to create abstract visual effects. The technique involves manipulating light and reflections to generate captivating visual experiences.
-
-**Examples of Reflection Studies:**
-1. ![Reflection Study 1](https://s3.amazonaws.com/zachlieberman.com/media/ReflectionStudies1.jpg)
-2. ![Reflection Study 2](https://s3.amazonaws.com/zachlieberman.com/media/ReflectionStudies2.jpg)
-
-### Inspiration for Project
-
-I plan to incorporate dynamic light and reflection effects similar to Lieberman's work into my project. This will enhance visual engagement and create immersive experiences by simulating realistic interactions between light and objects.
+I was inspired by Zach Lieberman's Reflection Studies project, in particular his use of light and shadow reflections to create abstract visual effects. This technique creates a dynamic visual representation through the interaction between light and objects. I hope to apply this dynamic effect of light reflection to my project to express the interaction between virtual space and reality. This technique will help me explore how animation and visual reflections can create a compelling visual experience and enhance the immersion of my project.
+![The work of Zach](https://www.instagram.com/reel/C_6cFIzJtPh/)
 
 ## 2. Exploring Coding Techniques
 
