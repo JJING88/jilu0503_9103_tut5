@@ -2,7 +2,6 @@
 # Creative Code Art and Implementation
 
 ## 1. Imaging Technique Inspiration
-
 **Zach Lieberman's Reflection Studies**
 
 Zach Lieberman's *Reflection Studies* explores the dynamic interplay between light and reflective surfaces to create abstract visual effects. The technique involves manipulating light and reflections to generate captivating visual experiences.
