@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../3 in 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3 in 1"
+	}
+}

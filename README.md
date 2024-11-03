@@ -1,4 +1,4 @@
-# Creative coding major project_9103_tut5
+# Group A_Creative coding major project_9103_tut5
 
 ## Section 1 – Research and inspiration:
 
