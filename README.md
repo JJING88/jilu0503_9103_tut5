@@ -28,9 +28,13 @@ These techniques will help our code implementation of The Apple Tree give a natu
 
 [The link of Okazz's works](https://openprocessing.org/user/128718?view=sketches&o=32/)
 
-![An image of Okazz‘s works](readmeImages/Okazz 1.png)
+![An image of Okazz‘s works](readmeImages/Okazz1.png)
 
-![An image of Okazz‘s works](readmeImages/Okazz 2.png)
+
+
+![An image of Okazz‘s works](readmeImages/Okazz2.png)
+
+
 
 
 
