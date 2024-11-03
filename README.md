@@ -24,7 +24,7 @@ Okazz maintains a delicate balance between controlled graphic variation and rand
 These techniques will help our code implementation of The Apple Tree give a natural and harmonious structure while retaining the unique depth of generative art.
 
 
-**1-2 The examples we found**
+**1-2 The examples of Okazz**
 
 [The link of Okazz's works](https://openprocessing.org/user/128718?view=sketches&o=32/)
 
