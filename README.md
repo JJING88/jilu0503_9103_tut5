@@ -37,7 +37,7 @@ These techniques will help our code implementation of The Apple Tree give a natu
 ![An image of Okazz‘s works](readmeImages/Okazz2.png)
 
 
-**2-1 Okazz_Japanese generative artist and creative coder**
+**2-1 Perlin noise redux edit**
 
 We're going to use Perlin noise to create a background intended to mimic the background texture of Anwar Jalal Shemza's Apple Tree to add depth and layering. By generating a noise pattern with a certain regularity, it creates an effect similar to natural textures, making the background richer without being eye-catching.
 
