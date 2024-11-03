@@ -1,43 +1,39 @@
-# jilu0503_9103_tut5
+# Creative coding major project_9103_tut5
 
-## Part1. Imaging Technique Inspiration
+## Section 1 – Research and inspiration:
 
-**1-1 Zach Lieberman's Reflection Studies**
+**1-1 Okazz_Japanese generative artist and creative coder**
 
-I was inspired by Zach Lieberman's Reflection Studies project, in particular his use of light and shadow reflections to create abstract visual effects. This technique creates a dynamic visual representation through the interaction between light and objects. I hope to apply this dynamic effect of light reflection to my project to express the interaction between virtual space and reality. This technique will help me explore how animation and visual reflections can create a compelling visual experience and enhance the immersion of my project.
+Okazz's work has a unique style that combines geometric abstraction, soft curves and dynamic visuals to create organic forms through complex generative rules. This style can inspire the following projects:
+
+1. A sense of static growth
+Using algorithms such as Perlin Noise to generate natural curves can give an image a sense of flow, giving static images a soft, natural dynamic feel.
+
+2. Layers and Space
+Okazz's geometric compositions are layered, adding visual depth through transparency and repetitive structures. We can use geometric shapes of different sizes superimposed on each other, or adjust the transparency and colour of the shapes to create a sense of layering, making the image complex and coordinated, in line with the abstract qualities of ‘Apple Tree’.
+
+3. Precise control of randomisation
+Okazz is good at controlling random geometrical generation, so that the graphics are random and orderly at the same time. We can use random parameters in the code to generate a variety of tree structures, and at the same time, we can use specific rules (e.g. symmetry or repetition) to make the images not look cluttered. This retains the richness of generative art, but also conforms to the balanced aesthetics of static images.
+
+4. Harmonious colour gradients
+Okazz often uses gradients and rich colours to enhance the depth of the work. We can introduce gradient tones or layered shading into the code to add visual tension to geometric forms, making patterns appear both abstract and harmonious. Colour gradients and subtle tones can help us achieve a subdued effect like The Apple Tree.
+
+5. Balance of randomisation and control
+Okazz maintains a delicate balance between controlled graphic variation and randomness, creating an aesthetic of ‘disorder within order’. In our projects, we can introduce noise-controlled randomisation parameters to create balanced but natural tree structures that add visual interest and variety.
+
+These techniques will help our code implementation of The Apple Tree give a natural and harmonious structure while retaining the unique depth of generative art.
+
 
 **1-2 The examples I found**
 
-[The link of Zach's work 1](https://www.instagram.com/reel/C_6cFIzJtPh/)
+[The link of Okazz's works](https://openprocessing.org/user/128718?view=sketches&o=32/)
 
-![An image of code1](readmeImages/work1.png)
+![An image of Okazz‘s works](readmeImages/Okazz 1.png)
 
-
-[The link of Zach's work 2](https://www.instagram.com/reel/C_749dkp6_I/)
-
-![An image of code1](readmeImages/work2.png)
+![An image of Okazz‘s works](readmeImages/Okazz 2.png)
 
 
 
 
-## Part2. Exploring Coding Techniques
+## Section 2 – Technical planning:
 
-To achieve dynamic visual effects similar to Reflection Studies, I'm going to use the p5.mapper and p5.anaglyph libraries, tools that provide unique visual presentation capabilities in p5.js.
-
-**2-1. p5.mapper**
-
-p5.mapper is a library for projection mapping in p5.js. It makes it easy to project images on irregular surfaces, creating dynamic visual effects by mapping the image to a specified surface using geometric transformations.
-
-[The link of code example 1](https://github.com/jdeboi/p5.mapper)
-
-![An image of code1](readmeImages/code1.png)
-
-
-
-**2-2. p5.anaglyph**
-
-p5.anaglyph is a library for creating red and cyan stereoscopic images that can be viewed in 3D through red and cyan glasses. This technique creates stereoscopic sensations in a two-dimensional picture, simulating reflections and depth effects.
-
-[The link of code example 2](https://github.com/jdeboi/p5.anaglyph)
-
-![An image of code2](readmeImages/code2.png)
