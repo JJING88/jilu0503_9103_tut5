@@ -36,6 +36,11 @@ These techniques will help our code implementation of The Apple Tree give a natu
 
 
 
+**2-2 The examples of Degox Art**
+
+[The link of Degox Art's works](https://openprocessing.org/sketch/1317868/)
+
+![An image of Degox Art‘s works](readmeImages/DegoxArt.png)
 
 
 
