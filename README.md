@@ -46,7 +46,7 @@ We're going to use Perlin noise to create a background intended to mimic the bac
 
 [The link of perlin noise redux edit 1 from Degox Art's work](https://openprocessing.org/sketch/1317868/)
 
-![An image of perlin noise redux edit 1](readmeImages/perlin1.png)
+![An image of perlin noise redux edit 1](readmeImages/perlint1.png)
 
 [The link of perlin noise redux edit 2 from scott mayson's work](https://openprocessing.org/sketch/1895683/)
 
