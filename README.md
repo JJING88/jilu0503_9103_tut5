@@ -2,9 +2,13 @@
 
 ## Section 1 – Research and inspiration:
 
-**1-1 Okazz_Japanese generative artist and creative coder**
+When imitating Anwar Jalal Shemza's The Apple Tree, there are several directions to draw inspiration from to help us go about forming the visuals and structure of the code implementation. Below is a brief description of several design-inspiring elements and related concepts:
 
-Okazz's work has a unique style that combines geometric abstraction, soft curves and dynamic visuals to create organic forms through complex generative rules. This style can inspire the following projects:
+**1-1 Visual representation of geometric abstract art**
+
+Shemza's Apple Tree uses simple geometric shapes to express complex ideas. This geometric abstract art emphasises shape, symmetry and spatial layout. These geometric patterns can be used in code design to create a similar visual effect through the arrangement of simple shapes such as squares, arcs and rectangles.
+
+We found Okazz's work has a unique style that combines geometric abstraction, soft curves and dynamic visuals to create organic forms through complex generative rules. This style can inspire we to:
 
 1. A sense of static growth
 Using algorithms such as Perlin Noise to generate natural curves can give an image a sense of flow, giving static images a soft, natural dynamic feel.
@@ -30,17 +34,23 @@ These techniques will help our code implementation of The Apple Tree give a natu
 
 ![An image of Okazz‘s works](readmeImages/Okazz1.png)
 
-
-
 ![An image of Okazz‘s works](readmeImages/Okazz2.png)
 
 
+**2-1 Okazz_Japanese generative artist and creative coder**
 
-**2-2 The examples of Degox Art**
+We're going to use Perlin noise to create a background intended to mimic the background texture of Anwar Jalal Shemza's Apple Tree to add depth and layering. By generating a noise pattern with a certain regularity, it creates an effect similar to natural textures, making the background richer without being eye-catching.
 
-[The link of Degox Art's works](https://openprocessing.org/sketch/1317868/)
 
-![An image of Degox Art‘s works](readmeImages/DegoxArt.png)
+**2-2 The examples of Perlin noise redux edit**
+
+[The link of perlin noise redux edit 1 from Degox Art's work](https://openprocessing.org/sketch/1317868/)
+
+![An image of perlin noise redux edit 1](readmeImages/perlin1.png)
+
+[The link of perlin noise redux edit 2 from scott mayson's work](https://openprocessing.org/sketch/1895683/)
+
+![An image of perlin noise redux edit 2](readmeImages/perlin2.png)
 
 
 
