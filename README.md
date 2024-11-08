@@ -51,15 +51,3 @@ Overall, the code combines a variety of programming techniques, including random
 
 
 
-
-
-**2-2 The examples of Perlin noise redux edit**
-
-[The link of perlin noise redux edit 1 from Degox Art's work](https://openprocessing.org/sketch/1317868/)
-
-![An image of perlin noise redux edit 1](readmeImages/perlint1.png)
-
-
-
-
-
