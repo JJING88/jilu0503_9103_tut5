@@ -1,45 +1,56 @@
-# Group A_Creative coding major project_9103_tut5
+# jilu0503_Group A_Creative coding major project_9103_tut5
 
-## Section 1 – Research and inspiration:
+## Section 1 – Instructions on how to interact with the work
 
-When imitating Anwar Jalal Shemza's The Apple Tree, there are several directions to draw inspiration from to help us go about forming the visuals and structure of the code implementation. Below is a brief description of several design-inspiring elements and related concepts:
+This work interacts with the user in several ways:
+Time-driven step-by-step drawing: the animation presents all the circles and rectangles step-by-step as the page loads. The user does not need to click, just wait and the animation will be displayed in chronological order. There is a delay of 200 milliseconds after each circle or rectangle is drawn, which makes the animation effect smoother and more gradual.
 
-**1-1 Visual representation of geometric abstract art**
-
-Shemza's Apple Tree uses simple geometric shapes to express complex ideas. This geometric abstract art emphasises shape, symmetry and spatial layout. These geometric patterns can be used in code design to create a similar visual effect through the arrangement of simple shapes such as squares, arcs and rectangles.
-
-We found Okazz's work has a unique style that combines geometric abstraction, soft curves and dynamic visuals to create organic forms through complex generative rules. This style can inspire we to:
-
-1. A sense of static growth
-Using algorithms such as Perlin Noise to generate natural curves can give an image a sense of flow, giving static images a soft, natural dynamic feel.
-
-2. Layers and Space
-Okazz's geometric compositions are layered, adding visual depth through transparency and repetitive structures. We can use geometric shapes of different sizes superimposed on each other, or adjust the transparency and colour of the shapes to create a sense of layering, making the image complex and coordinated, in line with the abstract qualities of ‘Apple Tree’.
-
-3. Precise control of randomisation
-Okazz is good at controlling random geometrical generation, so that the graphics are random and orderly at the same time. We can use random parameters in the code to generate a variety of tree structures, and at the same time, we can use specific rules (e.g. symmetry or repetition) to make the images not look cluttered. This retains the richness of generative art, but also conforms to the balanced aesthetics of static images.
-
-4. Harmonious colour gradients
-Okazz often uses gradients and rich colours to enhance the depth of the work. We can introduce gradient tones or layered shading into the code to add visual tension to geometric forms, making patterns appear both abstract and harmonious. Colour gradients and subtle tones can help us achieve a subdued effect like The Apple Tree.
-
-5. Balance of randomisation and control
-Okazz maintains a delicate balance between controlled graphic variation and randomness, creating an aesthetic of ‘disorder within order’. In our projects, we can introduce noise-controlled randomisation parameters to create balanced but natural tree structures that add visual interest and variety.
-
-These techniques will help our code implementation of The Apple Tree give a natural and harmonious structure while retaining the unique depth of generative art.
+Choosing time-based as the driving and animating image attribute
+I chose time-based as the main way to drive my personal code. This means that the progression and change of animation is dependent on the passage of time rather than direct user interaction.
 
 
-**1-2 The examples of Okazz**
+## Section 2 – Animated properties
 
-[The link of Okazz's works](https://openprocessing.org/user/128718?view=sketches&o=32/)
-
-![An image of Okazz‘s works](readmeImages/Okazz1.png)
-
-![An image of Okazz‘s works](readmeImages/Okazz2.png)
+2.1. The drawNextCircle function controls the rhythm of the animation by drawing circles one by one with a setTimeout delay. After each circle is drawn, it waits 200 milliseconds before drawing the next circle. On the first draw, fixed colours (red, green, yellow) are used to depict the top and bottom halves of the circle, and random colours are used on subsequent draws. This approach allows for multiple drawing variations for each figure, increasing the sense of dynamism and better showing the growth of the apple tree.
 
 
-**2-1 Perlin noise redux edit**
+2.2. While other team members may use interactive drivers (e.g. mouse clicks, movement), my work relies entirely on timelapse delays and built-in noise functions to dynamically generate effects, which allows my animation to show a gradual unfolding of subtle and continuous changes. My work focuses more on the gradual rendering and animation of shapes driven by time delays and fading effects, as opposed to the more instantaneous interactive responses that may be used.
 
-We're going to use Perlin noise to create a background intended to mimic the background texture of Anwar Jalal Shemza's Apple Tree to add depth and layering. By generating a noise pattern with a certain regularity, it creates an effect similar to natural textures, making the background richer without being eye-catching.
+## Section 3 – Reference animation inspiration
+My code is inspired by the following:
+3.1 Frame-by-frame animation and fading: I referenced a number of progressive animation works, particularly those that present shapes progressively through a chronological sequence. By drawing graphics frame-by-frame and delaying them using functions such as setTimeout, similar to classic animation techniques, a sense of rhythm and change is created by using gradual drawing. This approach is similar to traditional animation or early computer animation styles, where each frame is drawn incrementally to create the image. [The link of Frame-by-frame animation](https://pin.it/Ly0MvNJYS/)
+
+3.2.Artist's work: I am influenced by abstract artists such as Wassily Kandinsky and Paul Klee, whose work often shows a combination of geometric shapes and gradient colours in their compositions and use of colour. With these inspirations, I hope to combine geometric shapes with dynamic effects to form an ever-changing visual scene.
+![An image of Wassily Kandinsky's artwork](readmeImages/wassily.jpg)
+[The link of Wassily Kandinsky's artwork](https://www.wassilykandinsky.net//)
+
+
+
+## Section 4 – How personal code animates images and technical descriptions
+
+**4.1.time-driven loops:**
+By setting a delay (setTimeout) to draw the graphics one by one, rather than drawing them all at once, the animation process has a sense of rhythm and hierarchy.
+[The link of delayTime()](https://p5js.org/reference/p5.Delay/delayTime//)
+[The link of delayTime()](https://p5js.org/reference/p5/deltaTime//)
+
+
+
+**4.2.Randomization:**
+The code makes extensive use of the random() function to generate random values, which results in different graphics and animation effects every time it runs. For example, the diameter, position, and colour of a circle depend on randomly generated values, in a way that enhances the diversity and uncertainty of the graphics.
+
+**4.3.Timeout & Recursion:**
+In the drawNextCircle function, the frame-by-frame drawing animation effect is achieved by setTimeout(). Each time a circle is drawn, the programme waits for 200ms before drawing the next one, until all the circles have been drawn.
+This approach is combined with recursion to update the graphics incrementally by calling itself.
+
+**4.4.Conditionals & State Management:**
+the drawing behaviour of the different stages, ensuring that the background and graphics are updated in the expected order. State management ensures that the different stages of the animation are triggered correctly.
+
+Overall, the code combines a variety of programming techniques, including randomisation, delay and recursion, object-oriented programming, graphics drawing and transformation, animation and smooth transition, conditional control, responsive layout, colour and gradient, modular programming and other techniques. Through the combined use of these techniques, the code achieves a dynamic, artistic interactive animation effects.
+
+
+
+
+
 
 
 **2-2 The examples of Perlin noise redux edit**
@@ -48,7 +59,7 @@ We're going to use Perlin noise to create a background intended to mimic the bac
 
 ![An image of perlin noise redux edit 1](readmeImages/perlint1.png)
 
-[The link of perlin noise redux edit 2 from scott mayson's work](https://openprocessing.org/sketch/1895683/)
 
-![An image of perlin noise redux edit 2](readmeImages/perlin2.png)
+
+
 
