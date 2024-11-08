@@ -52,7 +52,3 @@ We're going to use Perlin noise to create a background intended to mimic the bac
 
 ![An image of perlin noise redux edit 2](readmeImages/perlin2.png)
 
-
-
-## Section 2 – Technical planning:
-

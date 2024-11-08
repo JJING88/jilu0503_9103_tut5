@@ -378,3 +378,5 @@ function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
   setup();
 }
+
+// I use ChatGPT to help me check and fix Big Momma's mistakes: https://chatgpt.com/share/672d900f-1154-8007-8f61-5c3fb47c4810
