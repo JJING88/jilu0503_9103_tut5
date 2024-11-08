@@ -19,6 +19,7 @@ I chose time-based as the main way to drive my personal code. This means that th
 ## Section 3 – Reference animation inspiration
 My code is inspired by the following:
 3.1 Frame-by-frame animation and fading: I referenced a number of progressive animation works, particularly those that present shapes progressively through a chronological sequence. By drawing graphics frame-by-frame and delaying them using functions such as setTimeout, similar to classic animation techniques, a sense of rhythm and change is created by using gradual drawing. This approach is similar to traditional animation or early computer animation styles, where each frame is drawn incrementally to create the image. 
+
 [The link of Frame-by-frame animation](https://pin.it/Ly0MvNJYS/)
 
 3.2.Artist's work: I am influenced by abstract artists such as Wassily Kandinsky and Paul Klee, whose work often shows a combination of geometric shapes and gradient colours in their compositions and use of colour. With these inspirations, I hope to combine geometric shapes with dynamic effects to form an ever-changing visual scene.
